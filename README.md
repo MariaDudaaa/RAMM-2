@@ -1,4 +1,4 @@
 # RAMM-2
-Maria Eduarda da Silva e Maria Clara Magagnin
+Grupo: Ana Costa, Maria Clara, Maria Eduarda e Rafaela.
 Turma: 3-54
 https://ramm4.atlassian.net/browse/RAMM-2  
